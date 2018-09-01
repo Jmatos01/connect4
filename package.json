@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/Swolebrain/connect4#readme",
   "devDependencies": {
-    "browserify": "^14.3.0"
-  }
+    "browserify": "^14.3.0",
+    "webpack": "^4.17.1",
+    "webpack-dev-server": "^3.1.7"
+  },
+  "dependencies": {}
 }

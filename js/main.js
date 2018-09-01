@@ -6,7 +6,7 @@ var SIDES = 8;
 var newEdge;
 
 
-
+var fadeInDots = require('./fadeInDots');
 var createTable = require('./createTable.js');
 var isLegitEdge = require('./isLegitEdge.js');
 
